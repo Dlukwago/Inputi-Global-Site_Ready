@@ -1,2 +1,4 @@
 // Placeholder JavaScript
-console.log("Inputi Global website loaded.");
+// Add interactivity or analytics if needed
+
+console.log("Inputi Global site loaded.");
